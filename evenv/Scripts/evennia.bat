@@ -1,0 +1,1 @@
+@"c:\users\matthew\documents\github\metropolitan-midnight-2\evenv\scripts\python.exe" "c:\users\matthew\documents\github\metropolitan-midnight-2\evenv\Scripts\evennia_launcher.py" %*
